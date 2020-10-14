@@ -151,3 +151,36 @@ body {
   to {opacity: 1}
 
 }
+.footer {
+  background-color:grey;
+  color: #fff;
+  height: 140px;
+  width:1270px;
+  position: absolute;
+  bottom: 0px; 
+
+}
+.container {
+  float: center;
+  padding-top: 5px;
+  padding-bottom: 2px;
+}
+.grid{
+  padding-top: 2px;
+  list-style-type: none;
+}
+.coloma{
+  padding-bottom: 10px;
+  font-size:14px;
+  height:70px;
+}
+.coloma li{
+	list-style-type: none;
+	text-align: center;
+
+}
+.footer_copyright{
+	text-align: center;
+	padding-left: 10px;
+}
+

@@ -19,7 +19,7 @@ header {
 
   background-color: rgba(34, 49, 52, 0.9);
 
-  position:fixed;
+  
 
   top:0;
 
@@ -84,6 +84,9 @@ header {
   float:right;
 
 }
+a {
+  color: white;
+} 
 
 .slideshow-container {
 
@@ -254,7 +257,7 @@ header {
 
   height: 140px;
 
-  width:1270px;
+  
 
   position: absolute;
 
